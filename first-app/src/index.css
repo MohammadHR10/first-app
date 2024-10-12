@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.cards{
+  display: flex;
+}
+
+/* This is the whole page of CSS (meaning
+any changes in styling here will change the styling of
+overall styling in the project */
+
